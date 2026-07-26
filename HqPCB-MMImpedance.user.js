@@ -11,8 +11,9 @@
 // @license             MPL-2.0
 // @license             Mozilla Public License 2.0
 // @charset		        UTF-8
-// @homepageURL         https://github.com/SynRGB/HqPCB-MMImpedance
-// @contributionURL     https://github.com/SynRGB/HqPCB-MMImpedance
+// @homepageURL         https://github.com/MehverSynRGB/HqPCB-MMImpedance
+// @contributionURL     https://github.com/MehverSynRGB/HqPCB-MMImpedance
+// @copyright           Copyright (c) 2022 Mehver (https://github.com/Mehver). All rights reserved.
 // ==/UserScript==
 
 (function () {
@@ -305,4 +306,4 @@
     init();
 })();
 
-console.log("Userscript HqPCB-MMImpedance (HqPCB-毫米计算阻抗) loaded. See more details at https://github.com/SynRGB/HqPCB-MMImpedance");
+console.log("Userscript HqPCB-MMImpedance (HqPCB-毫米计算阻抗) loaded. See more details at https://github.com/MehverSynRGB/HqPCB-MMImpedance");
