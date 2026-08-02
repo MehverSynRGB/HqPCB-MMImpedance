@@ -306,4 +306,4 @@
     init();
 })();
 
-console.log("Userscript HqPCB-MMImpedance (HqPCB-毫米计算阻抗) loaded. See more details at https://github.com/MehverSynRGB/HqPCB-MMImpedance");
+console.log("Script HqPCB-MMImpedance (HqPCB-毫米计算阻抗) loaded successfully. https://github.com/MehverSynRGB/HqPCB-MMImpedance");
