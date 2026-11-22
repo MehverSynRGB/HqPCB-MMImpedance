@@ -1,3 +1,6 @@
+> [!WARNING]
+> 因为作者不再使用该网站，自 `2026 年 8 月 25 日` (`v1.1`) 起归档，不再维护。请注意，随着网站的更新，可能会存在兼容性问题。
+
 <div align="center">
     <img src="https://github.com/MehverSynRGB/HqPCB-MMImpedance/raw/main/docs/icon/256.png" width="20%"/>
     <h1>HqPCB-毫米计算阻抗 <code>v1.1</code></h1>
